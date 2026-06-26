@@ -1,0 +1,26 @@
+{
+  "tan": {
+    "title": "TAN",
+    "description": "Финансовый автопилот который помогает выйти из долговой ямы",
+    "link": "https://bailout-buddy-app.nurbakyt-nur.workers.dev/",
+    "photos": ["media/hackathons/STARTUP/TAN.jpg"]
+  },
+  "teacher_guard": {
+    "title": "Teacher Guard",
+    "description": "AI-ассистент, который снижает стресс учителей при общении с родителями",
+    "photos": [
+      "media/hackathons/STARTUP/teacherguard (1).jpg",
+      "media/hackathons/STARTUP/teacherguard (2).jpg",
+      "media/hackathons/STARTUP/teacherguard (3).jpg"
+    ]
+  },
+  "sgb": {
+    "title": "SGB Production",
+    "description": "Интеллектуальная экосистема для автоматизированного выращивания растений и переработки органики на базе предиктивного ИИ",
+    "link": "https://sgb-nu.vercel.app/",
+    "photos": [
+      "media/hackathons/STARTUP/sgb (1).jpg",
+      "media/hackathons/STARTUP/sgb (2).jpg"
+    ]
+  }
+}

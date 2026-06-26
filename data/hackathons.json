@@ -1,0 +1,80 @@
+{
+  "just_build_it": {
+    "title": "Just Build It",
+    "story": "Капитан команды lecaganus — заняли 1 место.",
+    "photos": ["media/hackathons/just_build_it/jvb.jpg"]
+  },
+  "mechanical_engineering": {
+    "title": "Летний хакатон инженеров",
+    "story": "Хакатон в сфере mechanical engineering — занял 1 место.",
+    "photos": [
+      "media/hackathons/hacken (1).jpg",
+      "media/hackathons/hacken (2).jpg",
+      "media/hackathons/hacken (3).jpg"
+    ]
+  },
+  "future_tech": {
+    "title": "FutureTech",
+    "story": "Как резидент Makerspace получил финансирование 100 000 ₸ на проведение хакатона. FutureTech объединил 76 участников и показал серьёзный масштаб работы.",
+    "instagram": "[https://www.instagram.com/futuretech_hackathon?igsh=MXZtN2JremZhNjJ5ZQ==]",
+    "photos": [
+      "media/hackathons/future_tech/fh.jpg",
+      "media/hackathons/future_tech/fh2.jpg",
+      "media/hackathons/future_tech/fh4.jpg"
+    ]
+  },
+  "kazrobotics": {
+    "title": "KazRobotics-2025",
+    "story": "Капитан команды KazTech — заняли 2 место.",
+    "photos": [
+      "media/hackathons/kazrobo.jpg",
+      "media/hackathons/kaz.jpg"
+      
+    ]
+  },
+  "engineering_lab": {
+    "title": "Engineering Lab (свой клуб)",
+    "story": "Веду свой инженерный клуб, который объединил 15 человек за первую неделю. Обучаю инженерии по этапам: сначала Lego, потом Arduino, в конце — 3D-модель в Fusion 360.",
+    "instagram": "[https://www.instagram.com/engineerinlab_oral?igsh=MXZjY3l0czNldnA4eA==]",
+    "photos": [
+      "media/hackathons/enginerr (1).jpg",
+      "media/hackathons/enginerr (2).jpg",
+      "media/hackathons/enginerr (3).jpg"
+    ]
+  },
+  "ac": {
+    "title": "American Corner",
+    "story": "Волонтёрская работа в American Corner: помогал организовывать мероприятия, поддерживал гостей и развивал сообщество,выступал перед посольством США и рассказывал о своем клубе",
+    "photos": [
+      "media/hackathons/AC/250AC.jpg",
+      "media/hackathons/AC/250AC2.jpg",
+      "media/hackathons/AC/250AC3.jpg"
+    ]
+  },
+  "batyshub": {
+    "title": "Batyshub",
+    "story": "Участие в Batyshub — работал над проектами,стартапами которые реально помогали изменить жизнь людей ",
+    "photos": [
+      "media/hackathons/batyshub/bh.jpg",
+      "media/hackathons/batyshub/bh3.jpg",
+      "media/hackathons/batyshub/bh4.jpg"
+    ]
+  },
+  "kids_run": {
+    "title": "KidsRun",
+    "story": "KidsRun — поддерживал детский спортивный проект и помогал организовать мероприятие.",
+    "photos": [
+      "media/hackathons/KidsRUn/kids1.jpg",
+      "media/hackathons/KidsRUn/kids2.jpg",
+      "media/hackathons/KidsRUn/kids3.jpg"
+    ]
+  },
+  "inspire_fest": {
+    "title": "Inspire Fest",
+    "story": "Inspire Fest — участвовал в образовательном фестивале и представлял свои идеи студентам и гостям.",
+    "photos": [
+      "media/hackathons/Inspire fest/inspirefest2.jpg",
+      "media/hackathons/Inspire fest/inspire2025.jpg"
+    ]
+  }
+}
